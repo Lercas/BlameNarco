@@ -20,7 +20,7 @@ This Python script is designed to parse websites, either individually or from a 
 Install the required libraries using the following command:
 
 ```bash
-pip install requests beautifulsoup4 tqdm
+pip install -r requirements.txt
 ```
 
 Usage
